@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/wangziwenhk/clang-lite.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A TypeScript wrapper for libclangjs providing utilities to parse and analyze C/C++ code.",
   "scripts": {
     "test": "jest",
